@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+Verticai, a study buddy with multi language support with text to speech and speech ouput features.
+Under the hood, it uses the chatgpt api and prepromts to curate a study buddy for everybody.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This was a demo built in small hackathon and will be worked to give an actual functioning demo... without winapi and pydub bugs DX
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+built with streamlit, openai whisper, chatgpt api, google text to speech, and other oopen source packages
