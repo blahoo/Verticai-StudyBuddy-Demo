@@ -1,0 +1,3 @@
+#120c2b - verticai blue
+#f0a830 - verticai gold
+#ffffff - white
