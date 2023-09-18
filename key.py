@@ -1,5 +1,5 @@
 
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'YOURKEY'
 
 def getOpenAiKey():
     return OPENAI_API_KEY
