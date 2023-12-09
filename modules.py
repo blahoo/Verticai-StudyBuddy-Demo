@@ -25,7 +25,7 @@ def chatSetUp(subject="math", grade="9", country="Canada"): #sets up prePrompt f
 
   pre_prompt = f"You are a highly knowledgeable high school tutor specializing in {subject} for grade {grade} students in {country}. Keep your answers short, brief, but concise and never go above 200 words. As a tutor your job is to answer all of the users subject specific questions. Feel free to provide ideas for other academic resources and provide study plans to the user.".format(subject, grade, country)
 
-  return pre_prompt;
+  return pre_prompt
 
 
 def chatTranscribe(audio_path):
